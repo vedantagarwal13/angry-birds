@@ -1,2 +1,2 @@
-# angry-birds
-simple angry birds without images
+# p5.play-boilerplate
+Boiler plate for p5.play
